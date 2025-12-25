@@ -206,11 +206,11 @@ msgstr "Cách chơi"
 
 #: src/window.blp:140
 msgid "_About"
-msgstr "_Giới thiệu về"
+msgstr "_Giới thiệu"
 
 #: src/window.blp:142
 msgid "About"
-msgstr "Giới thiệu về"
+msgstr "Giới thiệu"
 
 #: src/window.blp:146
 msgid "_Quit"
