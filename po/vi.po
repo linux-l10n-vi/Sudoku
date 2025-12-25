@@ -190,7 +190,7 @@ msgstr "Tiếp tục trò _chơi"
 
 #: src/window.blp:91
 msgid "_New Game"
-msgstr "_Trò chơi mới"
+msgstr "Trò chơi _mới"
 
 #: src/window.blp:128
 msgid "_Keyboard Shortcuts"
