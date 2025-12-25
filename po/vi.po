@@ -170,7 +170,7 @@ msgstr "Quay lại menu chính"
 
 #: src/window.blp:34
 msgid "Menu"
-msgstr "Trình đơn"
+msgstr "Menu"
 
 #: src/window.blp:43
 msgid "Toggle Pencil Mode"
