@@ -312,7 +312,7 @@ msgstr "Kiệt tác! Mọi vị trí số đều được tính toán hoàn hả
 
 #: src/finished_overlay.py:48
 msgid "Phenomenal! You've conquered this Sudoku with style!"
-msgstr "Hiện tượng lạ! Bạn đã chinh phục được trò chơi Sudoku này một cách đầy phong cách!"
+msgstr "Phi thường! Bạn đã chinh phục được trò chơi Sudoku này một cách đầy phong cách!"
 
 #: src/game_manager.py:80
 msgid "Wrong"
