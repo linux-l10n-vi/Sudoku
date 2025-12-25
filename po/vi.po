@@ -214,7 +214,7 @@ msgstr "Giới thiệu"
 
 #: src/window.blp:146
 msgid "_Quit"
-msgstr "_Từ bỏ"
+msgstr "_Thoát"
 
 #: src/window.blp:148
 msgid "Quit"
