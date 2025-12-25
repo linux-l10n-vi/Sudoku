@@ -288,7 +288,7 @@ msgstr "Xuất sắc! Bạn đã hoàn thành Sudoku một cách xuất sắc!"
 
 #: src/finished_overlay.py:42
 msgid "Spectacular! Your mathematical reasoning is top-notch!"
-msgstr "Hùng vĩ! Lý luận toán học của bạn là đỉnh cao!"
+msgstr "Ngoạn mục! Lý luận toán học của bạn là đỉnh cao!"
 
 #: src/finished_overlay.py:43
 msgid "Well done! You've proven yourself a Sudoku champion!"
