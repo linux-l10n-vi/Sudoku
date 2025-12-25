@@ -356,7 +356,7 @@ msgstr "– Dùng phím Backspace để xóa một ô."
 
 #: src/help_dialog.py:53
 msgid "– Try to solve the puzzle logically."
-msgstr "- Cố gắng giải câu đố một cách logic."
+msgstr "– Cố gắng giải câu đố một cách logic."
 
 #: src/help_dialog.py:55
 msgid "Good luck and have fun!"
